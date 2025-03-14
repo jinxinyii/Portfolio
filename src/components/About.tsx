@@ -82,7 +82,7 @@ export default function About() {
               {/* Portrait Image with Frame */}
               <div className="rounded-2xl overflow-hidden shadow-2xl transform hover:scale-[1.01] transition-all duration-500">
                 <img 
-                  src="/public/me.jpg" 
+                  src="/me.jpg" 
                   alt="Professional portrait" 
                   className="w-full h-auto object-cover"
                   style={{ aspectRatio: '1/1' }}
